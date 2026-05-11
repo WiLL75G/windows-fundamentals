@@ -19,7 +19,7 @@ This repo guides you from zero no experience needed.
 **Step 2** [Start the Windows Fundamentals Path (free)](https://tryhackme.com/module/windows-fundamentals)  
 **Step 3** Follow the [Course Navigation](https://github.com/WiLL75G/windows-fundamentals/blob/main/coursenavigation.md) below 👇
 
-## 📂 Course Navigation
+## Course Navigation
 **[Open the Full Course Navigation →](./coursenavigation.md)**
 
 ---
