@@ -1,7 +1,7 @@
 # Windows Fundamentals for SOC Analysts
 
 > A structured learning hub for complete beginners learning Windows in a cybersecurity context.  
-> Built for aspiring SOC analysts — every link points to a free, official resource.
+> Built for aspiring SOC analysts every link points to a free, official resource.
 
 ---
 
