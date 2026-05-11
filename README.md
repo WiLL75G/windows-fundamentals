@@ -1,11 +1,11 @@
-# 🪟 Windows Fundamentals for SOC Analysts
+# Windows Fundamentals for SOC Analysts
 
 > A structured learning hub for complete beginners learning Windows in a cybersecurity context.  
 > Built for aspiring SOC analysts — every link points to a free, official resource.
 
 ---
 
-## 👋 What Is This Repo?
+## What Is This Repo?
 
 Windows is the **most targeted operating system** in enterprise environments.  
 As a SOC analyst, you will spend most of your time investigating Windows-based alerts and incidents.  
@@ -13,15 +13,15 @@ This repo guides you from zero — no experience needed.
 
 ---
 
-## 🚀 Where To Start
+## Where To Start
 
 **Step 1** — [Create a free TryHackMe account](https://tryhackme.com)  
 **Step 2** — [Start the Windows Fundamentals Path (free)](https://tryhackme.com/module/windows-fundamentals)  
-**Step 3** — Follow the [Course Navigation](https://github.com/WiLL75G/windows-fundamentals/blob/main/coursenavigation.md) below
+**Step 3** — Follow the [Course Navigation](https://github.com/WiLL75G/windows-fundamentals/blob/main/coursenavigation.md) 
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 windows-fundamentals/
@@ -32,7 +32,7 @@ windows-fundamentals/
 
 ---
 
-## 📋 Topics Covered
+## Topics Covered
 
 - Windows File System & Directory Structure
 - Windows Registry Basics
