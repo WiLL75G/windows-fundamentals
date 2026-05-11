@@ -9,19 +9,19 @@
 
 Windows is the **most targeted operating system** in enterprise environments.  
 As a SOC analyst, you will spend most of your time investigating Windows-based alerts and incidents.  
-This repo guides you from zero — no experience needed.
+This repo guides you from zero no experience needed.
 
 ---
 
 ## Where To Start
 
-**Step 1** — [Create a free TryHackMe account](https://tryhackme.com)  
-**Step 2** — [Start the Windows Fundamentals Path (free)](https://tryhackme.com/module/windows-fundamentals)  
-**Step 3** — Follow the [Course Navigation](https://github.com/WiLL75G/windows-fundamentals/blob/main/coursenavigation.md) 
-
+**Step 1** [Create a free TryHackMe account](https://tryhackme.com)  
+**Step 2** [Start the Windows Fundamentals Path (free)](https://tryhackme.com/module/windows-fundamentals)  
+**Step 3** Follow the [Course Navigation](https://github.com/WiLL75G/windows-fundamentals/blob/main/coursenavigation.md) below 👇
 
 ## 📂 Course Navigation
 **[Open the Full Course Navigation →](./coursenavigation.md)**
+
 ---
 
 
