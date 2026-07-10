@@ -49,7 +49,7 @@ windows-fundamentals/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a personal learning resource for educational purposes.  
 All linked content belongs to their respective platforms.
